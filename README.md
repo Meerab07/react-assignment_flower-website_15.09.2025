@@ -7,7 +7,6 @@ Features: responsive design that works on all devices, beautiful flower gallery,
 Live Demo: https://github.com/Meerab07/react-assignment_flower-website_15.09.2025
 
 <img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/d69c54d0-6eb8-4575-9d41-44dfe7d3eb25" />
-<img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/20677e8a-b47d-43b2-a946-86c49a576e82" />
 
 To run the website, once in terminal, run 'cd frontend' then 'npm run dev'.
 
