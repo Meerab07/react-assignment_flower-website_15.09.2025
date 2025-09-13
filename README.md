@@ -6,7 +6,7 @@ Features: responsive design that works on all devices, beautiful flower gallery,
 
 Live Demo: https://github.com/Meerab07/react-assignment_flower-website_15.09.2025
 
-<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/64341b9f-aa79-414a-b3de-646d867e2a81" />
+<img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/d69c54d0-6eb8-4575-9d41-44dfe7d3eb25" />
 <img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/20677e8a-b47d-43b2-a946-86c49a576e82" />
 <img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/1a4b23a7-c06d-4254-8437-c68fea871735" />
 <img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/f03ccfd2-24c6-4bd1-894f-766f6db2bfda" />
