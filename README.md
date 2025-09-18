@@ -6,7 +6,7 @@ Features: responsive design that works on all devices, beautiful flower gallery,
 
 <img width="1788" height="3169" alt="image" src="https://github.com/user-attachments/assets/d69c54d0-6eb8-4575-9d41-44dfe7d3eb25" />
 
-To run the website, once in terminal, run 'cd frontend' then 'npm run dev'.
+To run the website, once in terminal, run 'cd reactapp1', then 'cd frontend' and then 'npm run dev'.
 
 
 
